@@ -13,6 +13,7 @@ You don't need to drink, but we definitely want you to come hang out with us for
 - The Turing Community (15 min)  
   - Posses
   - Slack
+    - Alon is MowAlon on Slack (and everywhere else on the net)
   - Echo & Foxtrot, together forever
   - Working with mentors / Pairing
   - Community Night/Demo Night

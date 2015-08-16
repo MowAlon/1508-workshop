@@ -4,7 +4,7 @@ This session is meant to be an intro to the experience you've opted to take on f
 We'll talk about the stuff below and attempt to answer all the questions that have been nagging you since you blindly signed on to this thing.
 Bring your computer if you already have it, and be ready to tell us about yourself so we don't just spend two hours on boring computer stuff.
 
-Congratulations on your bravery, by the way. As a reward, we'll hit [World of Beer](http://worldofbeer.com/Locations/Lodo) when it's all over.
+Congratulations on your bravery, by the way. As a reward, we'll hit [World of 🍻](http://worldofbeer.com/Locations/Lodo) when it's all over.
 You don't need to drink, but we definitely want you to come hang out with us for a bit.
 
 ####Workshop Outline
@@ -13,6 +13,7 @@ You don't need to drink, but we definitely want you to come hang out with us for
 - The Turing Community (15 min)  
   - Posses
   - Slack
+  - Echo & Foxtrot, together forever
   - Working with mentors / Pairing
   - Community Night/Demo Night
   - Fridays

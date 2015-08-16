@@ -1,6 +1,6 @@
-Welcome to the new ballers of Turing!
+Welcome to Turing!
 
-This session is meant to be an intro to the experience you've opted to take on for the next sixish months.
+This session is an intro to the experience you've opted to take on for the next sixish months.
 We'll talk about the stuff below and attempt to answer all the questions that have been nagging you since you blindly signed on to this thing.
 Bring your computer if you already have it, and be ready to tell us about yourself so we don't just spend two hours on boring computer stuff.
 

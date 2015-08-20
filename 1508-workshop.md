@@ -15,25 +15,28 @@ You don't need to drink, but we definitely want you to come hang out with us for
   - Slack
     - Alon is MowAlon on Slack (and everywhere else on the net)
   - Echo & Foxtrot, together forever
-  - Working with mentors / Pairing
+  - Working with mentors/Pairing
   - Community Night/Demo Night
   - Fridays
     - Retro
     - One-on-one's
     - Electives/student led sessions
+    - Ligthning Talks
 - What to expect in module 1 (30 min)
   - First week - classes, homework and exercises
   - Projects
   - Mental health and ways to deal with a heavy workload
-  - Asking for help / struggling with difficult problems
+  - Asking for help/struggling with difficult problems
   - Questions?
 - Setup (45 min)
   - Basic Ruby prep
   - git and GitHub
   - Atom
+  - Sublime
   - .bash-profile
     - aliases
     - making stuff pretty
+    - git autocompletion and branch display
 
 ####Computer Setup Checklist
 - [Jumpstart Lab Environment Setup](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
